@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace MSDNEncryptionTutorial
 {
-    public partial class Form1 : Form
+    public partial class btnImportPublicKey : Form
     {
-        public Form1()
+        public btnImportPublicKey()
         {
             InitializeComponent();
         }
